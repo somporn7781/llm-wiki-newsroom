@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into a cross-linked markdown wiki. A "reground" loop pulls published pages back in before they go stale — writer ≠ reviewer, local-first, a structured alternative to RAG."
 requires-python = ">=3.10"
 # guard against empty input
+# drop an unused branch
