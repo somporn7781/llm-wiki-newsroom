@@ -19,3 +19,4 @@ if __name__ == "__main__":
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # guard against empty input
+# clarify the control flow
